@@ -18,3 +18,5 @@ Take the cat apart. Be careful they break easily, because they are made out of p
 ## Electronics:
 Take the motor cable and make sure your cables are identifiable as +,- and controlling (mine were orange, red and brown). Take the + cable and plug it into the 5V Pin at the arduino. Take the - Pin and plug it into the GND(Ground)-Pin. And lastly put the controlling cable into Pin 9 (You can change this one).
 
+## Todo:
+Create an easy way to change the timing of tea timer. Add Battery.
